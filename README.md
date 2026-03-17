@@ -1,9 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/lie0cr3wESQ" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
 
   <div>
      <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -14,25 +9,20 @@
 
 <h3 align="center">Storage and File Sharing Platform</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+##  <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+1.  [Introduction](#introduction)
+2.  [Tech Stack](#tech-stack)
+3.  [Features](#features)
+4.  [Quick Start](#quick-start)
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction"> Introduction</a>
 
 A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack"> Tech Stack</a>
 
 - React 19
 - Next.js 15
@@ -41,30 +31,30 @@ A storage management and file sharing platform that lets users effortlessly uplo
 - ShadCN
 - TypeScript
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
-👉 **User Authentication with Appwrite**: Implement signup, login, and logout functionality using Appwrite's authentication system.
+ **User Authentication with Appwrite**: Implement signup, login, and logout functionality using Appwrite's authentication system.
 
-👉 **FIle Uploads**: Effortlessly upload a variety of file types, including documents, images, videos, and audio, ensuring all your important data.
+ **FIle Uploads**: Effortlessly upload a variety of file types, including documents, images, videos, and audio, ensuring all your important data.
 
-👉 **View and Manage Files**: Users can browse through their uploaded files stored in Appwrite storage, view on a new tab, rename file or delete.
+ **View and Manage Files**: Users can browse through their uploaded files stored in Appwrite storage, view on a new tab, rename file or delete.
 
-👉 **Download Files**: Users can download their uploaded files giving them instant access to essential documents.
+ **Download Files**: Users can download their uploaded files giving them instant access to essential documents.
 
-👉 **File Sharing**: Users can easily share their uploaded files with others, enabling collaboration and easy access to important content.
+ **File Sharing**: Users can easily share their uploaded files with others, enabling collaboration and easy access to important content.
 
-👉 **Dashboard**: Gain insights at a glance with a dynamic dashboard that showcases total and consumed storage, recent uploads, and a summary of files grouped by type.
+ **Dashboard**: Gain insights at a glance with a dynamic dashboard that showcases total and consumed storage, recent uploads, and a summary of files grouped by type.
 
-👉 **Global Search**: Users can quickly find files and shared content across the platform with a robust global search feature.
+ **Global Search**: Users can quickly find files and shared content across the platform with a robust global search feature.
 
-👉 **Sorting Options**: Organize files efficiently by sorting them by date, name, or size, making file management a breeze.
+ **Sorting Options**: Organize files efficiently by sorting them by date, name, or size, making file management a breeze.
 
-👉 **Modern Responsive Design**: A fresh and minimalist UI that emphasizes usability, ensuring a clean aesthetic across all devices.
+ **Modern Responsive Design**: A fresh and minimalist UI that emphasizes usability, ensuring a clean aesthetic across all devices.
 
 and many more, including the latest **React 19**, **Next.js 15** and **Appwrite** features alongside code architecture and
 reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -79,8 +69,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/AlexiaMaria11/Storage-management.git
+cd Storage-management
 ```
 
 **Installation**
